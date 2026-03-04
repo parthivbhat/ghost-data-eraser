@@ -1,0 +1,6 @@
+token.json
+credentials.json
+*.pkl
+*.csv
+*.zip
+temppp/
